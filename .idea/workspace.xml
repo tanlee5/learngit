@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="106bf757-b27d-430b-8df3-c068e72f76ac" name="Changes" comment="注释">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/master.py" beforeDir="false" afterPath="$PROJECT_DIR$/master.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +91,7 @@
       <workItem from="1730799705697" duration="5873000" />
       <workItem from="1731318590151" duration="6027000" />
       <workItem from="1731891365931" duration="1805000" />
+      <workItem from="1732495419904" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="注释">
       <option name="closed" value="true" />
